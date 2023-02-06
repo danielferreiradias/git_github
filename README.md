@@ -5,8 +5,8 @@
 
 |     Commands                 |    Description                                  |
 | ------------------------------- | --------------------------------------------- |
-| git config --list | List configuration git |
-| git config --global user.name "My Name" | Git configure username |
+| git config --list | List git configuration |
+| git config --global user.name "My Name" | Git configure username, store in "~/.gitconfig" |
 | git config --global user.mail myemail@mail.com | Git configure email |
-| git config --global core.editor vim | Git configure editor |
+| git config --global core.editor vim | Git configure editor, if you use "--system" flag becomes a global scope for all users |
 | git config --global init.defaultBranch main | Git set branch |
