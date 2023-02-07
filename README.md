@@ -14,4 +14,8 @@
 | git status | Verify your status repository |
 | git add [ARCHIVE] | Add tracked archives in 'stage area' |
 | git reset | Remove tracked archives in 'stage area' |
-| git commit | Is used to save your changes to the local repository |
+| git reset --soft HEAD~1 | Remove the last commit maintaining last configurations untracked |
+| git reset --hard | Remove last commit by discarding changes |
+| git commit -m "Put your commit message here" | Is used to save your changes to the local repository, use "-a" flag to add in "stage area" |
+| git log | Check logs of your alterations, use "-p" flag to see a particular alteration of your archive |
+| git checkout [HASHLOG] | Roll back to a particular alteration |
