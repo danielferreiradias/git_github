@@ -25,3 +25,4 @@
 | git branch -m feature/new_text_archive | Rename branch |
 | git branch -d feature/new_text_archive | Delete branch, use "-D" flag if you did a commit it |
 | git merge feature/new_archive | Merge your branches |
+| git rebase feature/new_archive | Rebase your branches, be careful because it's history rewriting don't use it in you "main/master" branch |
