@@ -21,6 +21,7 @@
 | git checkout [HASHLOG] | Roll back to a particular alteration |
 | git branch feature/new_archive | Create a new branch |
 | git branch | List available branches |
-| git checkout feature/new_archive | Change branch |
+| git checkout feature/new_archive | Change branch, use a "-b" flag for create a new branch |
 | git branch -m feature/new_text_archive | Rename branch |
 | git branch -d feature/new_text_archive | Delete branch, use "-D" flag if you did a commit it |
+| git merge feature/new_archive | Merge your branches |
