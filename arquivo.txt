@@ -1,0 +1,7 @@
+Teste
+<<<<<<< HEAD
+Oi teste
+Novo teste
+Estou na branch master 
+=======
+>>>>>>> feature/arquivo_xpto
