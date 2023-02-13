@@ -27,3 +27,8 @@
 | git merge feature/new_archive | Merge your branches |
 | git rebase feature/new_archive | Rebase your branches, be careful because it's history rewriting don't use it in you "main/master" branch |
 | git cherry-pic [HASHLOG] | Take a commit that is on another branch and merge it with a current branch. It's need the HASHLOG (git log) of the desired commit |
+| git tag | List tags of your repository |
+| git tag -a [MY_TAG] -m "Message of MY_TAG" | Create tag |
+| git tag -a [MY_TAG] -m "Message of MY_TAG" [HASHLOG] | Apply a tag to a specifit commit |
+| git show [MY_TAG] | Shows you the commit that received your tag  |
+| git tag -d [MY_TAG] | Delete your tag  |
