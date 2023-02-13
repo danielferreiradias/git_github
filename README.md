@@ -45,4 +45,5 @@
 | git remote add origin git@github.com:danielferreiradias/git_github.git | Add a remote repository of name "origin" |
 | git branch -M main | Rename your branch for "main" name |
 | git push -u origin main | Push your branch from origin to "main" branch |
+| git pull | The git pull command is used to fetch and download content from remote repositories and immediately update the local repository so that the contents are the same |
 
