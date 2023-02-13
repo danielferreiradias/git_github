@@ -29,7 +29,7 @@
 | git cherry-pic [HASHLOG] | Take a commit that is on another branch and merge it with a current branch. It's need the HASHLOG (git log) of the desired commit |
 | git tag | List tags of your repository |
 | git tag -a [MY_TAG] -m "Message of MY_TAG" | Create tag |
-| git tag -a [MY_TAG] -m "Message of MY_TAG" [HASHLOG] | Apply a tag to a specifit commit |
+| git tagWhen comparing Git pull vs fetch, Git fetch is a safer alternative because it pulls in all the commits from your remote but doesn't make any changes to your local files. On the other hand, Git pull is faster as you're performing multiple actions in one – a better bang for your buck. -a [MY_TAG] -m "Message of MY_TAG" [HASHLOG] | Apply a tag to a specifit commit |
 | git show [MY_TAG] | Shows you the commit that received your tag  |
 | git tag -d [MY_TAG] | Delete your tag  |
 
@@ -46,4 +46,4 @@
 | git branch -M main | Rename your branch for "main" name |
 | git push -u origin main | Push your branch from origin to "main" branch |
 | git pull | The git pull command is used to fetch and download content from remote repositories and immediately update the local repository so that the contents are the same |
-
+| git fetch | Downloads commits, files, and refs from a remote repository into your local repo (is more safer than "git pull") |
