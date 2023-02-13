@@ -43,3 +43,6 @@
 |     Commands                 |    Description                                  |
 | ------------------------------- | --------------------------------------------- |
 | git remote add origin git@github.com:danielferreiradias/git_github.git | Add a remote repository of name "origin" |
+| git branch -M main | Rename your branch for "main" name |
+| git push -u origin main | Push your branch from origin to "main" branch |
+
