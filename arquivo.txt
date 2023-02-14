@@ -9,3 +9,4 @@ Nova linha 6
 
 
 NOVA LINHA -> GitHub novo usuário
+Nova linha arquivo.txt\n
