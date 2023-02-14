@@ -3,6 +3,6 @@ Teste
 Oi teste
 Novo teste
 Estou na branch master
-Nova linha
+Nova linha 6
 =======
 >>>>>>> feature/arquivo_xpto
