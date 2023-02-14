@@ -6,3 +6,4 @@ Estou na branch master
 Nova linha 6
 =======
 >>>>>>> feature/arquivo_xpto
+Nova linha repo remoto
