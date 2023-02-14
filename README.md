@@ -20,7 +20,7 @@
 | git log | Check logs of your alterations, use "-p" flag to see a particular alteration of your archive |
 | git checkout [HASHLOG] | Roll back to a particular alteration |
 | git branch feature/new_archive | Create a new branch |
-| git branch | List available branches |
+| git branch | List available branches, use the flag "-r" for list it |
 | git checkout feature/new_archive | Change branch, use a "-b" flag for create a new branch |
 | git branch -m feature/new_text_archive | Rename branch |
 | git branch -d feature/new_text_archive | Delete branch, use "-D" flag if you did a commit it |
