@@ -2,6 +2,7 @@ Teste
 <<<<<<< HEAD
 Oi teste
 Novo teste
-Estou na branch master 
+Estou na branch master
+Nova linha
 =======
 >>>>>>> feature/arquivo_xpto
