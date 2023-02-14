@@ -32,7 +32,8 @@
 | git tag -a [MY_TAG] -m "Message of MY_TAG" [HASHLOG] | Apply a tag to a specifit commit |
 | git show [MY_TAG] | Shows you the commit that received your tag  |
 | git tag -d [MY_TAG] | Delete your tag  |
-```
+
+
 
 # GitHub - Essential Commands
 - Below is the list of essential commands we need
