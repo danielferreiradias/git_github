@@ -11,3 +11,4 @@ Nova linha arquivo.txt\n
 
 OUTRA LINHA
 Nova linha remoto fetch
+Nova linha local fetch
