@@ -10,3 +10,4 @@ NOVA LINHA -> GitHub novo usuário
 Nova linha arquivo.txt\n
 
 OUTRA LINHA
+Nova linha remoto fetch
