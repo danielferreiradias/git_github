@@ -47,7 +47,7 @@
 | git push -u origin main | Push your branch from origin to "main" branch |
 | git push --set-upstream origin [YOUR_NEW_BRANCH] | Push your new branch from local to remote repository |
 | git pull | The git pull command is used to fetch and download content from remote repositories and immediately update the local repository so that the contents are the same |
-| git fetch | Downloads commits, files, and refs from a remote repository into your local repo (is more safer than "git pull") |
+| git fetch origin | Downloads commits, files, and refs from a remote repository into your local repo (is more safer than "git pull") |
 | git diff main origin/main | View the difference between your local "main" with remote "main" repository |
 
 
