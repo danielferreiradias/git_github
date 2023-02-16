@@ -17,7 +17,7 @@
 | git reset --soft HEAD~1 | Remove the last commit maintaining last configurations untracked |
 | git reset --hard | Remove last commit by discarding changes |
 | git commit -m "Put your commit message here" | Is used to save your changes to the local repository, use "-a" flag to add in "stage area" |
-| git log | Check logs of your alterations, use "-p" flag to see a particular alteration of your archive. Use the "--online" flag to see in an shorter visualization. Use the "--stat" to see a number of alterations/exclusions. Use the flag "-n 2" to see the two last alterations. Use the flag "--graph" to see a graph visualization. Use the "--author=XXX" to see changes of specific author |
+| git log | Check logs of your alterations, use "-p" flag to see a particular alteration of your archive. Use the "--online" flag to see in an shorter visualization. Use the "--stat" flag to see a number of alterations/exclusions. Use the "-n 2" flag to see the two last alterations. Use the "--graph" flag to see a graph visualization. Use the "--author=XXX" flag to see changes of specific author. Use the "--after="1 week ago" flag to see commits done in this week |
 | git checkout [HASHLOG] | Roll back to a particular alteration |
 | git branch feature/new_archive | Create a new branch |
 | git branch | List available branches, use the flag "-r" for list it |
