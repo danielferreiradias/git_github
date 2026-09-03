@@ -5,6 +5,7 @@
 
 |     Commands                 |    Description                                  |
 | ------------------------------- | --------------------------------------------- |
+| git clone -b branch --single-branch https://github.com/danielferreiradias/hashicorp | clone a git repository |
 | git config --list | List git configuration |
 | git config --global user.name "My Name" | Git configure username store in "~/.gitconfig" |
 | git config --global user.email myemail@mail.com | Git configure email |
